@@ -1,0 +1,11 @@
+{
+  "name": "purescript-jsdom",
+  "version": "0.0.1",
+  "authors": [
+    "Seitaro Yuuki <sensitivejapaneseman@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^6.5.1"
+  }
+}

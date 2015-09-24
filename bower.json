@@ -1,0 +1,27 @@
+{
+  "name": "purescript-jsdom",
+  "version": "0.0.1",
+  "authors": [
+    "Seitaro Yuuki <sensitivejapaneseman@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "jsdom": "~6.5.1",
+    "purescript-aff": "~0.12.0",
+    "purescript-dom": "~0.2.6",
+    "purescript-eff-functions": "git@github.com:hexx/purescript-eff-functions.git#~0.0.1",
+    "purescript-exceptions": "~0.3.0",
+    "purescript-nullable": "~0.2.1"
+  },
+  "devDependencies": {
+    "purescript-assert": "~0.1.1",
+    "purescript-console": "~0.1.1",
+    "purescript-debug": "~0.1.2"
+  }
+}
